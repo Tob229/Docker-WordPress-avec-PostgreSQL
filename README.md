@@ -40,8 +40,8 @@ Dockerfile personnalisé pour WordPress qui :
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/dock-post-press.git
-   cd dock-post-press
+   git clone https://github.com/Tob229/Docker-WordPress-avec-PostgreSQL.git
+   cd Docker-WordPress-avec-PostgreSQL
    ```
 
 2. Configurez les variables d'environnement dans le fichier `.env` :
@@ -56,7 +56,7 @@ Dockerfile personnalisé pour WordPress qui :
    ```
 
 4. Accédez à WordPress :
-   - Ouvrez votre navigateur à l'adresse `http://localhost:8080` (ou le port spécifié dans `docker-compose.yml`).
+   - Ouvrez votre navigateur à l'adresse `http://localhost:7060` (ou le port spécifié dans `docker-compose.yml`).
 
 ## Commandes utiles
 
